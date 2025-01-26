@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Marmol</h1>
-<h3 align="center">A profesional and passionate fullstack developer from Argentine, Cordoba, Rio Cuarto</h3>
+<h3 align="center">A professional and passionate full-stack software developer from Argentine, Cordoba, Rio Cuarto</h3>
 
 - 🌱 I’m currently learning **CI/CD, Frameworks, Azure, IA, Machine Learning**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Dev to](https://dev.to/)
 
-- 💬 Ask me about **Ruby and Ruby on Rails, Javascritpt, Typescript, Databases, Azure Platform**
+- 💬 Ask me about **Ruby and Ruby on Rails, Javascript, Typescript, Databases, Azure Platform**
 
 - 📫 How to reach me **marmolleonardo@gmail.com**
 
