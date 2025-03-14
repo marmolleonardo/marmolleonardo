@@ -1,11 +1,95 @@
 <h1 align="center">Hi 👋, I'm Leonardo Marmol</h1>
-<h3 align="center">A professional and passionate full-stack software developer from Argentine, Cordoba, Rio Cuarto</h3>
+<h3 align="center">A professional and passionate full-stack software developer from Argentina, Cordoba, Rio Cuarto</h3>
+
+**Senior Full-Stack Developer (Ruby on Rails)**  
+📍 Río Cuarto, Córdoba, Argentina | 📧 marmolleonardo@gmail.com | 📱 +54 358 5099805  
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-marmol-927a0a47/) | 🐙 [GitHub]()
+
+---
+
+## **Technical Summary**  
+- 12+ years full-stack development experience with 4+ years focused on Ruby on Rails  
+- Proficient in modern Rails stack: Hotwire/Turbo, RSpec, Sidekiq, PostgreSQL optimization  
+- Cloud expertise: Azure Certified AI Engineer, CI/CD pipelines (GitHub Actions, Azure DevOps)  
+- Leadership: Managed 4+ developer teams, legacy system migrations, and cross-functional projects  
+- Bilingual: Native Spanish, Technical English (B1)  
+
+---
+
+## **Core Competencies**  
+**Backend**:  
+- Ruby on Rails (v5-7), RSpec, GraphQL, RESTful APIs, C# .NET
+**Frontend**: React, Angular, Backbone.js, Bootstrap
+**Databases**: SQL and PostgreSQL (query optimization), ElasticSearch, Cassandra  
+**DevOps**: Azure Cloud, Docker, Jenkins, New Relic, GitHub Actions  
+**Methodologies**: TDD, Scrum, Microservices Architecture  
+
+---
+
+## **Professional Experience**  
+
+### **Senior Full-Stack Developer** | Keepcon | Mar 2022 - Present  
+**Tech Stack**: Rails 7, Hotwire, PostgreSQL, Cassandra, New Relic, Scrum  
+- Led development of omnichannel communication platform handling 5K+ requests/minute using Rails 5.2 and Hotwire  
+- Reduced API response time by 40% through PostgreSQL query optimization and Redis caching  
+- Implemented CI/CD pipeline with Jenkins and GitLab, decreasing deployment errors by 65%  
+- Migrated legacy Backbone.js frontend to modern Vue components with Hotwire integration  
+
+### **Full-Stack Developer** | Toptive | Sep 2019 - Feb 2022  
+**Tech Stack**: Rails 6, C# .NET, Azure, React Native  
+- Modernized legacy .NET application to Rails microservices architecture (12K+ LOC refactored)  
+- Developed cross-platform mobile app with React Native, serving 1K+ daily active users  
+- Integrated Azure DevOps for automated deployments, reducing release cycles from 4h to 25min  
+
+### **Full-Stack Tech Lead** | ASPURC | Aug 2013 - Sep 2019  
+**Tech Stack**: Rails 4, Delphi, Firebird/PostgreSQL, ElasticSearch  
+- Managed team of 5 developers for medical administration SaaS platform  
+- Architected real-time reporting system using PostgreSQL (processing 8K+ daily transactions)  
+- Spearheaded migration from Firebird to PostgreSQL, improving query performance by 55%  
+- Introduced TDD practices with RSpec, achieving 90% test coverage on critical modules  
+
+---
+
+## **Key Projects**  
+
+### **AI-Powered Chat Moderation System** | Keepcon (2023)  
+- Integrated Azure AI services with Rails backend for real-time content analysis  
+- Scaled to process 2M+ daily messages using Cassandra cluster optimization  
+- **Impact**: Reduced manual moderation workload by 70%  
+
+### **Healthcare Claims Processing System** | ASPURC (2018)  
+- Developed Rails-based workflow engine reducing claim approval time from 5 days to 8 hours  
+- Implemented role-based security with Pundit gem and Devise authentication  
+- **Stack**: Rails 4, PostgreSQL, ElasticSearch, CoffeeScript, and Bootstrap frontend  
+
+---
+
+## **Education & Credentials**  
+**Certifications**:  
+- Microsoft Certified: Azure AI Engineer Associate | 2024  
+- GitHub Actions & Copilot Specialist | Código Facilito | 2024  
+
+**Academic**:  
+- B.Sc. in Computer Science | National University of Río Cuarto | 2007-2012  
+
+---
+
+## **Professional Development**  
+- Regular contributor to RubyGems ecosystem (include specific gems if applicable)  
+- Attendee: RubyConf LATAM 2023, AWS re: Invent virtual sessions
+- Continuous learning via Codewars (Ruby Top 5% percentile)
+
+---
+
+## **Languages**  
+- Spanish (Native)  
+- English (B1 - Technical Proficiency)
 
 - 🌱 I’m currently learning **CI/CD, Frameworks, Azure, IA, Machine Learning**
 
 - 👯 I’m looking to collaborate on [Mastodon](https://github.com/mastodon/mastodon)
 
-- 🤝 I’m looking for help with [Dev to](https://dev.to/)
+- 🤝 I’m looking for help with [Dev to](https://dev.to/) and [Codigo Facilito](https://codigofacilito.com/)
 
 - 💬 Ask me about **Ruby and Ruby on Rails, Javascript, Typescript, Databases, Azure Platform**
 
