@@ -75,9 +75,9 @@
 ---
 
 ## **Professional Development**  
-- Regular contributor to RubyGems ecosystem (include specific gems if applicable)  
+- Regular contributor to RubyGems ecosystem.
 - Attendee: RubyConf LATAM 2023, AWS re: Invent virtual sessions
-- Continuous learning via Codewars (Ruby Top 5% percentile)
+- Continuous learning via CodigoFacilito (Ruby Top 5% percentile)
 
 ---
 
