@@ -85,16 +85,6 @@
 - Spanish (Native)  
 - English (B1 - Technical Proficiency)
 
-- 🌱 I’m currently learning **CI/CD, Frameworks, Azure, IA, Machine Learning**
-
-- 👯 I’m looking to collaborate on [Mastodon](https://github.com/mastodon/mastodon)
-
-- 🤝 I’m looking for help with [Dev to](https://dev.to/) and [Codigo Facilito](https://codigofacilito.com/)
-
-- 💬 Ask me about **Ruby and Ruby on Rails, Javascript, Typescript, Databases, Azure Platform**
-
-- 📫 How to reach me **marmolleonardo@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/leonmarmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="leonmarmol" height="30" width="40" /></a>
