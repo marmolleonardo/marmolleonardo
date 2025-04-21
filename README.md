@@ -43,7 +43,7 @@
 
 ### **Full-Stack Tech Lead** | ASPURC | Aug 2013 - Sep 2019  
 **Tech Stack**: Rails 4, Delphi, Firebird/PostgreSQL, ElasticSearch  
-- Managed team of 5 developers for medical administration SaaS platform  
+- Managed team of 5 developers for a medical administration SaaS platform  
 - Architected real-time reporting system using PostgreSQL (processing 8K+ daily transactions)  
 - Spearheaded migration from Firebird to PostgreSQL, improving query performance by 55%  
 - Introduced TDD practices with RSpec, achieving 90% test coverage on critical modules  
@@ -58,7 +58,7 @@
 - **Impact**: Reduced manual moderation workload by 70%  
 
 ### **Healthcare Claims Processing System** | ASPURC (2018)  
-- Developed Rails-based workflow engine reducing claim approval time from 5 days to 8 hours  
+- Developed Rails-based workflow engine, reducing claim approval time from 5 days to 8 hours  
 - Implemented role-based security with Pundit gem and Devise authentication  
 - **Stack**: Rails 4, PostgreSQL, ElasticSearch, CoffeeScript, and Bootstrap frontend  
 
@@ -75,7 +75,7 @@
 ---
 
 ## **Professional Development**  
-- Regular contributor to RubyGems ecosystem.
+- Regular contributor to the RubyGems ecosystem.
 - Attendee: RubyConf LATAM 2023, AWS re: Invent virtual sessions
 - Continuous learning via CodigoFacilito (Ruby Top 5% percentile)
 
