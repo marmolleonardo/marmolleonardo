@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Marmol</h1>
 <h3 align="center">A professional and passionate full-stack software developer from Argentina, Cordoba, Rio Cuarto</h3>
 
-**Senior Full-Stack Developer (Ruby on Rails)**  
+**Senior Full-Stack Developer (Ruby on Rails && .Net Core)**
 📍 Río Cuarto, Córdoba, Argentina | 📧 marmolleonardo@gmail.com | 📱 +54 358 5099805  
-🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-marmol-927a0a47/) | 🐙 [GitHub]()
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-marmol-927a0a47/) | 🐙 [GitHub](https://github.com/marmolleonardo)
 
 ---
 
@@ -19,10 +19,10 @@
 ## **Core Competencies**  
 **Backend**:  
 - Ruby on Rails (v5-7), RSpec, GraphQL, RESTful APIs, C# .NET
-**Frontend**: React, Angular, Backbone.js, Bootstrap
-**Databases**: SQL and PostgreSQL (query optimization), ElasticSearch, Cassandra  
+**Frontend**: React, Angular, Backbone.js, Bootstrap, Tailwind
+**Databases**: SQL, PostgreSQL, MongoDB, ElasticSearch, Cassandra  
 **DevOps**: Azure Cloud, Docker, Jenkins, New Relic, GitHub Actions  
-**Methodologies**: TDD, Scrum, Microservices Architecture  
+**Methodologies**: TDD, Scrum, Microservices Architecture
 
 ---
 
@@ -36,15 +36,15 @@
 - Migrated legacy Backbone.js frontend to modern Vue components with Hotwire integration  
 
 ### **Full-Stack Developer** | Toptive | Sep 2019 - Feb 2022  
-**Tech Stack**: Rails 6, C# .NET, Azure, React Native  
-- Modernized legacy .NET application to Rails microservices architecture (12K+ LOC refactored)  
-- Developed cross-platform mobile app with React Native, serving 1K+ daily active users  
-- Integrated Azure DevOps for automated deployments, reducing release cycles from 4h to 25min  
+**Tech Stack**: C# .NET, Visual Basic, Angular, Azure, React Native, SQL, Asana
+- Modernized legacy .NET application to Rails microservices architecture.
+- Developed cross-platform mobile app with React Native.
+- Integrated Azure DevOps for automated deployments
 
 ### **Full-Stack Tech Lead** | ASPURC | Aug 2013 - Sep 2019  
-**Tech Stack**: Rails 4, Delphi, Firebird/PostgreSQL, ElasticSearch  
+**Tech Stack**: Rails 5.2, Delphi, Firebird/PostgreSQL, ElasticSearch  
 - Managed team of 5 developers for a medical administration SaaS platform  
-- Architected real-time reporting system using PostgreSQL (processing 8K+ daily transactions)  
+- Architected real-time reporting system using PostgreSQL and SQL.
 - Spearheaded migration from Firebird to PostgreSQL, improving query performance by 55%  
 - Introduced TDD practices with RSpec, achieving 90% test coverage on critical modules  
 
@@ -58,9 +58,9 @@
 - **Impact**: Reduced manual moderation workload by 70%  
 
 ### **Healthcare Claims Processing System** | ASPURC (2018)  
-- Developed Rails-based workflow engine, reducing claim approval time from 5 days to 8 hours  
-- Implemented role-based security with Pundit gem and Devise authentication  
-- **Stack**: Rails 4, PostgreSQL, ElasticSearch, CoffeeScript, and Bootstrap frontend  
+- Developed Rails-based workflow engine, reducing claim approval time.
+- Implemented role-based security with Devise authentication.
+- **Stack**: Rails 5.2, PostgreSQL, ElasticSearch, CoffeeScript, and Bootstrap frontend  
 
 ---
 
