@@ -18,11 +18,15 @@
 
 ## **Core Competencies**  
 **Backend**:  
-- Ruby on Rails (v5-7), RSpec, GraphQL, RESTful APIs, C# .NET
-**Frontend**: React, Angular, Backbone.js, Bootstrap, Tailwind
-**Databases**: SQL, PostgreSQL, MongoDB, ElasticSearch, Cassandra  
-**DevOps**: Azure Cloud, Docker, Jenkins, New Relic, GitHub Actions  
-**Methodologies**: TDD, Scrum, Microservices Architecture
+- Ruby on Rails (v5-7), RSpec, RESTful APIs, C# .NET
+**Frontend**: 
+- React, Angular, Backbone.js, Bootstrap, Tailwind
+**Databases**: 
+- SQL, PostgreSQL, MongoDB, ElasticSearch, Cassandra, Firebird
+**DevOps**: 
+- Azure Cloud, Docker, Jenkins, New Relic, GitHub Actions
+**Methodologies**: 
+- TDD, Scrum, Microservices Architecture
 
 ---
 
